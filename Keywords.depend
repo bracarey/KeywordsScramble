@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1554701380 source:d:\codeblocks\keywords\keywordsmain.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+
